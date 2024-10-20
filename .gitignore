@@ -53,9 +53,6 @@ coverage/
 # Ignore Django secret key
 *.secret
 
-# Ignore logs
-*.log
-
 # Ignore test coverage reports
 .coverage
 htmlcov/
